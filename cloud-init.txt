@@ -1,0 +1,4 @@
+#cloud-config
+runcmd:
+  - mkdir /usr/local/demo001
+  - touch /usr/local/demo.txt
